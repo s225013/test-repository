@@ -1,0 +1,1 @@
+puts "rider, I'm masked rider !!!"
